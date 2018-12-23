@@ -1,0 +1,7 @@
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\bin\Debug\practicalWork-1.exe.config
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\bin\Debug\practicalWork-1.exe
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\bin\Debug\practicalWork-1.pdb
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\obj\Debug\practicalWork-1.csprojAssemblyReference.cache
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\obj\Debug\practicalWork-1.csproj.CoreCompileInputs.cache
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\obj\Debug\practicalWork-1.exe
+c:\users\шипа\source\repos\practicalWork-1\practicalWork-1\obj\Debug\practicalWork-1.pdb
